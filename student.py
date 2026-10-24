@@ -17,6 +17,7 @@ def add_student(name, roll_no, email):
     }
 
     students.append(student)
+    print("Student added successfully!")
     return student
 
 
